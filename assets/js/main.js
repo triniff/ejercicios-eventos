@@ -10,7 +10,7 @@ load.addEventListener("load", function(){
 	alert("La pagina termino de cargar")
 })*/
 window.onload = function (){	// Cuando la pagina termine de cargar se realiza la funcion y entrega un alert
-	/*	alert("La pagina termino de cargar");*/
+	alert("La pagina termino de cargar");
 	}
 
 var doge = document.getElementById("imagen"); // llama al elemento
